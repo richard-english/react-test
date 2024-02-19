@@ -36,9 +36,9 @@ Your task is to develop a simple mortgage calculator application using React and
 
 ### Example Calculation
 
-Property Price: £100,000
-Deposit: £5,000
-Mortgage Term: 15 years
+Property Price: £100,000  
+Deposit: £5,000  
+Mortgage Term: 15 years  
 Interest rate: 5.25%
 
 | Monthly Payment     | £763.68     |
