@@ -32,7 +32,8 @@ To learn more about Next.js, take a look at the following resources:
 
 ## Overview
 
-Your task is to develop a simple mortgage calculator application using React and Next.js. This app will calculate and display the monthly mortgage payments, total payments over the full term, and total interest payments based on user inputs. While **UI design is not the primary focus**, functionality, code quality, and your approach are crucial. This application will mirror our live [mortgage calculator]([https://tools.moneyhelper.org.uk/en/mortgage-calculator]) tool.
+Your task is to develop a simple mortgage calculator application using React and Next.js. This app will calculate and display the monthly mortgage payments, total payments over the full term, and total interest payments based on user inputs. While **UI design is not the primary focus**, functionality, code quality, and your approach are crucial. This application will mirror our live [mortgage calculator](https://tools.moneyhelper.org.uk/en/mortgage-calculator/) tool.
+
 
 ### Example Calculation
 
