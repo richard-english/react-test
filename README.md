@@ -34,7 +34,6 @@ To learn more about Next.js, take a look at the following resources:
 
 Your task is to develop a simple mortgage calculator application using React and Next.js. This app will calculate and display the monthly mortgage payments, total payments over the full term, and total interest payments based on user inputs. While **UI design is not the primary focus**, functionality, code quality, and your approach are crucial. This application will mirror our live [mortgage calculator](https://tools.moneyhelper.org.uk/en/mortgage-calculator/) tool.
 
-
 ### Example Calculation
 
 Property Price: £100,000  
@@ -50,6 +49,7 @@ Interest rate: 5.25%
 | Affordability check | £921.63     |
 
 #### Screenshot example
+
 ![Example](example.png?raw=true "Example")
 
 ## Terms and Definitions
@@ -123,7 +123,9 @@ Where:
 
 4. **Code Quality**: Ensure your code is clean, well-commented (where necessary), and adheres to the DRY principle. Organise your code for maintainability and readability.
 
-## Bonus Challenge
+## Bonus Challenges (OPTIONAL)
+
+### 1. Dynamic interest rate
 
 Integrate functionality to dynamically fetch the interest rate from the Bank of England's website.
 
@@ -133,4 +135,8 @@ The interest rate output can be found at the following URL:
 https://www.bankofengland.co.uk/boeapps/iadb/fromshowcolumns.asp?csv.x=yes&Datefrom=18/Jan/2024&Dateto=18/Feb/2024&SeriesCodes=IUMABEDR&CSVF=TN&UsingCodes=Y&VPD=Y&VFD=N
 ```
 
-We look forward to your solutions and wish you the best of luck!
+### 2. Optimising for Accessibility: No-JS Functionality
+
+Implement a solution that allows the mortgage calculator to function even when JavaScript is disabled in the user's browser. This will ensure that the website remains accessible and usable for all users.
+
+**We look forward to your solutions and wish you the best of luck!**
