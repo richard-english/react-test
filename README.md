@@ -123,6 +123,8 @@ Where:
 
 4. **Code Quality**: Ensure your code is clean, well-commented (where necessary), and adheres to the DRY principle. Organise your code for maintainability and readability.
 
+**Please note, no additional UI work is required beyond the provided basic UI**
+
 ## Bonus Challenges (OPTIONAL)
 
 ### 1. Dynamic interest rate
