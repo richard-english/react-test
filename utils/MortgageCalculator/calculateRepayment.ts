@@ -1,6 +1,6 @@
 /**
  * Calculates the monthly mortgage payment.
- * 
+ *
  * @param propertyPrice - The price of the property.
  * @param deposit - The deposit amount.
  * @param annualInterestRate - The annual interest rate.
