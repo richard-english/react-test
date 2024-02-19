@@ -6,11 +6,9 @@ import Col from "react-bootstrap/Col";
 import InputGroup from "react-bootstrap/InputGroup";
 import Table from "react-bootstrap/Table";
 
-import { formatCurrency } from "@/utils/formatCurrency";
+import { formatCurrency } from "../utils/formatCurrency";
 
 export default function MortgageCalculator() {
-
-
   return (
     <Container>
       <title>Mortgage Calculator Test</title>
@@ -74,9 +72,7 @@ export default function MortgageCalculator() {
             <tbody>
               <tr className="border-b border-t">
                 <td>Monthly Payment</td>
-                <td className="text-right">
-                  {formatCurrency(763.68)}
-                </td>
+                <td className="text-right">{formatCurrency(763.68)}</td>
               </tr>
               <tr className="border-b">
                 <td>Total Repayment</td>
@@ -92,9 +88,7 @@ export default function MortgageCalculator() {
               </tr>
               <tr className="border-b">
                 <td>Affordability check</td>
-                <td className="text-right">
-                  {formatCurrency(921.63)}
-                </td>
+                <td className="text-right">{formatCurrency(921.63)}</td>
               </tr>
             </tbody>
           </Table>
@@ -110,10 +104,10 @@ export default function MortgageCalculator() {
               </tr>
             </thead>
             <tbody>
-                <tr>
-                  <td>1</td>
-                  <td>{formatCurrency(10000)}</td>
-                </tr>
+              <tr>
+                <td>1</td>
+                <td>{formatCurrency(10000)}</td>
+              </tr>
             </tbody>
           </Table>
         </Col>
