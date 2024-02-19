@@ -107,7 +107,7 @@ Where:
 
 1. **Functionality**:
 
-   - Integrate the following features into the `pages/index.tsx` file, which contains a basic calculator UI built using the Bootstrap React library:
+   - Integrate the following features into the `pages/index.tsx` file, which contains a basic calculator UI built using the React Bootstrap library:
      - Implement the core feature to calculate monthly mortgage payments.
        - To get started, refer to the existing monthly payment function and its tests in `utils/MortgageCalculator/calculateRepayment.ts`.
      - Display the following information:
